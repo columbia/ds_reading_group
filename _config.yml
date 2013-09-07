@@ -2,3 +2,4 @@ name: DS Reading Group
 safe: true
 lsi: false
 pygments: true
+baseurl: /ds_reading_group
