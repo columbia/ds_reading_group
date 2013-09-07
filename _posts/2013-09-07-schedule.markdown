@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Reading group schedule"
+date:   2013-09-07 18:11:24
+categories: schedule
+---
+
+# Sept 9-13
+Protection and the Control of Information Sharing in Multics
+Jerome Selzer
+Proc. of SOSP, 1974
+
+# Sept 16-21
+The Evolution of the UNIX Time-sharing System
+D. M. Ritchie
+Proc. of the Symposium on Language Design and Programming Methodology, 1979
