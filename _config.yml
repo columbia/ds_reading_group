@@ -1,3 +1,3 @@
-name: Ds Reading Groups blog
-markdown: redcarpet
+safe: true
+lsi: false
 pygments: true
