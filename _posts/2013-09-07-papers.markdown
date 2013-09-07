@@ -1,0 +1,169 @@
+---
+layout: post
+title:  "Reading group paper list"
+date:   2013-09-07 17:07:24
+categories: paper list
+---
+
+## Core Systems Papers
+# General
+End-to-End Arguments in System Design 
+Saltzer and Schroeder 
+ACM Transactions on Computer Systems, 1984
+
+Hints for Computer System Design, 
+B.W. Lampson 
+Proceedings of the 9th ACM Symposium on Operating Systems Principles, 1983
+
+Google's ["Introduction to Distributed System Design"](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html "hpcs")
+
+
+# Basic OS Papers (required reading for all systems students):
+HYDRA: The Kernel of a Multiprocessor Operating System 
+W. Wulf, E. Cohen, W. Corwin, A. Jones, R. Levin, C. Pierson, and F. Pollack 
+Communications of the ACM, 1974
+
+UNIX Implementation 
+K. Thompson 
+The Bell System Technical Journal, 1978
+
+The Evolution of the UNIX Time-sharing System
+D. M. Ritchie
+Proc. of the Symposium on Language Design and Programming Methodology, 1979
+
+Protection and the Control of Information Sharing in Multics
+Jerome Selzer
+Proc. of SOSP, 1974
+
+The Structure of the THE Multiprogramming System 
+E. Dijkstra 
+Communications of the ACM, 1968
+
+Extensibility, Safety, and Performance in the SPIN Operating System 
+Brian Bershad, Stefan Savage, Przemyslaw Pardyak, Emin Gun Sirer, David Becker, Marc Fiuczynski, Craig Chambers, and Susan Eggers 
+Proceedings of the 15th ACM Symposium on Operating System Principles
+
+Plan 9 from Bell Labs 
+Rob Pike, Dave Presotto, Ken Thompson, and Howard Trickey 
+Proceedings of the UKUUG Summer 1990 Conference, 1990
+
+Exokernel: An Operating System Architecture for Application-Level Resource Management 
+Dawson R. Engler, M. Frans Kaashoek, and James O'Toole Jr. 
+Proceedings of the 15th ACM Symposium on Operating Systems Principles, 1995
+
+Xen and the Art of Virtualization
+Paul Barham, Boris Dragovic, Keir Fraser, Steven Hand, Tim Harris, Alex Ho, Rolf Neugebauer, Ian Pratt, Andrew Warfield
+Proceedings of the 19th ACM Symposium on Operating Systems Principles 
+October 2003.
+
+Lottery Scheduling: Flexible Proportional Share Resource Management 
+C. Waldspurger, and W. Weihl 
+Proceedings of the First Symposium on Operating Systems Design and Implementation, 1994
+
+A Case for Redundant Array of Inexpensive Disks (RAID)
+D. A. Patterson, G. Gibson, and R. H. Katz.
+Proc. ACM SIGMOD International Conference on Management of Data, 1988
+
+The Design and Implementation of a Log-Structured File System
+M. Rosenblum and J. K. Ousterhout
+ACM Trans. on Computer Systems, 1992.
+
+
+
+## Core Distributed Systems Papers
+Implementing Remote Procedure Calls 
+A.D. Birrell, and B.J. Nelson 
+ACM Transactions on Computer Systems, 1984
+
+Lightweight Remote Procedure Call
+B. N. Bershad, T. E. Anderson, E. D. Lazowska, and H. M. Levy
+ACM Trans. on Computer Systems, 1990
+
+Development of the Domain Name System
+Paul V. Mockapetris, Kevin J. Dunlap
+SIGCOMM, 1988
+
+Time, Clocks, and the Ordering of Events in a Distributed System 
+L. Lamport 
+Communications of the ACM, 1978
+
+Internet Time Synchronization: the Network Time Protocol
+David Mills
+IEEE Transactions on Communications, 1991
+
+Experience with Grapevine: The Growth of a Distributed System 
+M.D. Schroeder, A.D. Birrell, and R.M. Needham 
+ACM Transactions on Computer Systems, 1984
+
+Scale and Performance in a Distributed File System 
+J. Howard, M. Kazar, S. Menees, D. Nichols, M. Satyanarayanan, R. Sidebotham, and M. West
+ACM Transactions on Computer Systems, 1988
+
+Design and Implementation of the Sun Network Filesystem 
+R. Sandberg, D. Goldberg, S. Kleiman, D. Walsh, and B. Lyon 
+USENIX Summer Conference Proceedings, 1985
+
+Caching in the Sprite Network File System 
+M.N. Nelson, B.B. Welch, and J.K. Ousterhout 
+ACM Transactions on Computer Systems, 1988
+
+Managing update conflicts in Bayou, a weakly connected replicated storage system
+D. B. Terry, M. M. Theimer, K. Petersen, A. J. Demers, M. J. Spreitzer, and C. H. Hauser
+Proc. of 1995 Proc. of the 15th ACM Symposium on Operating Systems Principles, 1995
+
+The Transaction Concept: Virtues and Limitations
+Jim Gray
+Proc. 7th International Conference on Very Large Data Bases, 1981
+
+Disconnected Operation in the Coda File System 
+J.J. Kistler, and M. Satyanarayanan 
+ACM Transactions on Computer Systems, 1992
+
+A Case for Networks of Workstations: NOW.
+Thomas E. Anderson, David E. Culler, David A. Patterson
+IEEE Micro, Feb, 1995.
+
+Distributed Snapshots: Determining Global States of Distributed Systems
+
+Memory Coherence in Shared Virtual Memory Systems
+
+Bigtable: A Distributed Storage System for Structured Data
+
+Megastore: Providing Scalable, Highly Available Storage for Interactive Services
+
+Spanner: Google's Globally-Distributed Database
+
+The Chubby Lock Service for Loosely-Coupled Distributed Systems
+
+Don't Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS
+
+Dynamo: Amazon's Highly Available Key-value Store
+
+MapReduce: Simplified Data Processing on Large Clusters
+
+DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language
+
+PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs
+
+
+
+# Security (just a little bit – we'll do more later)
+Protection
+B. W. Lampson
+Proc. of the 5th Princeton Symposium on Information Sciences and Systems, 1971
+
+The Protection of Information in Computer Systems
+J. H. Saltzer and M. D. Schroeder
+Proc. of the IEEE, 1975
+
+Using Encryption for Authentication in Large Networks of Computers
+R. M. Needham and M. D. Schroeder
+Communications of the ACM, 1978
+
+Kerberos: An Authentication Service for Open Network Systems
+J. G. Steiner, C. Neuman, and J. I. Schiller
+Proc. of USENIX '88, 1988
+
+Authentication in Distributed Systems: Theory and Practice
+B. Lampson, M. Abadi, M. Burrows, and E. Wobber
+ACM Transactions on Computer Systems, 1992.
