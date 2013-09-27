@@ -145,6 +145,7 @@ DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Usin
 
 PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs
 
+Hyperdex: A Distributed, Searchable Key-Value Store
 
 
 # Security (just a little bit – we'll do more later)
