@@ -19,3 +19,6 @@ Proc. of the Symposium on Language Design and Programming Methodology, 1979
 Exokernel: An Operating System Architecture for Application-Level Resource Management
 Dawson R. Engler, M. Frans Kaashoek, and James O'Toole Jr. Proceedings of the 15th ACM
 Symposium on Operating Systems Principles, 1995
+
+# Sept 30-Oct 4
+Hyperdex: A Distributed, Searchable Key-Value Store
