@@ -22,3 +22,7 @@ Symposium on Operating Systems Principles, 1995
 
 # Sept 30-Oct 4
 Hyperdex: A Distributed, Searchable Key-Value Store
+
+# Oct 6-11
+Time, Clocks, and the Ordering of Events in a Distributed System
+L. Lamport Communications of the ACM, 1978
