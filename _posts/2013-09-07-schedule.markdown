@@ -26,3 +26,10 @@ Hyperdex: A Distributed, Searchable Key-Value Store
 # Oct 6-11
 Time, Clocks, and the Ordering of Events in a Distributed System
 L. Lamport Communications of the ACM, 1978
+
+# Oct 13-18
+Xen and the Art of Virtualization
+Paul Barham, Boris Dragovic, Keir Fraser, Steven Hand, Tim Harris,
+Alex Ho, Rolf Neugebauer, Ian Pratt, Andrew Warfield
+Proceedings of the 19th ACM Symposium on Operating Systems Principles October 2003.
+
