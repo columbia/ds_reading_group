@@ -33,3 +33,6 @@ Paul Barham, Boris Dragovic, Keir Fraser, Steven Hand, Tim Harris,
 Alex Ho, Rolf Neugebauer, Ian Pratt, Andrew Warfield
 Proceedings of the 19th ACM Symposium on Operating Systems Principles October 2003.
 
+# Oct 20-25
+Dynamo: Amazon’s Highly Available Key-value Store
+
