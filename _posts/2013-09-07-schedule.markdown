@@ -36,3 +36,11 @@ Proceedings of the 19th ACM Symposium on Operating Systems Principles October 20
 # Oct 20-25
 Dynamo: Amazon’s Highly Available Key-value Store
 
+# Nov 11-16
+Paxos made simple
+
+# Nov 18-23
+The Chubby Lock Service for Loosely-Coupled Distributed Systems
+
+# Nov 25-30
+Spanner: Google’s Globally-Distributed Database
