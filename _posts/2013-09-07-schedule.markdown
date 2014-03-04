@@ -44,3 +44,9 @@ The Chubby Lock Service for Loosely-Coupled Distributed Systems
 
 # Nov 25-30
 Spanner: Google’s Globally-Distributed Database
+
+# Mar 6
+Kerberos
+
+# Mar 13
+The Design and Implementation of a Log-Structured File System
